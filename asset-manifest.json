@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tavidle/static/css/main.42ce551e.css",
-    "main.js": "/tavidle/static/js/main.fe6cf624.js",
+    "main.js": "/tavidle/static/js/main.dcf8acf4.js",
     "static/js/787.b3f9d252.chunk.js": "/tavidle/static/js/787.b3f9d252.chunk.js",
     "index.html": "/tavidle/index.html",
     "main.42ce551e.css.map": "/tavidle/static/css/main.42ce551e.css.map",
-    "main.fe6cf624.js.map": "/tavidle/static/js/main.fe6cf624.js.map",
+    "main.dcf8acf4.js.map": "/tavidle/static/js/main.dcf8acf4.js.map",
     "787.b3f9d252.chunk.js.map": "/tavidle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42ce551e.css",
-    "static/js/main.fe6cf624.js"
+    "static/js/main.dcf8acf4.js"
   ]
 }
